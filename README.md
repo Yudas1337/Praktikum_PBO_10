@@ -1,18 +1,26 @@
-## Getting Started
+### Praktikum PBO 10
+This is the tenth repository from PBO Practice in State Polytechnic of Malang. It is coded with Java Programming language. implements abstract class and interface program from given class diagram in Jobsheet.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- 📝 Pdf filename :[2C_24_Yudas Malabi.pdf](https://github.com/Yudas1337/Praktikum_PBO_10/blob/master/2C_24_Yudas%20Malabi.pdf)
 
-## Folder Structure
+### Main Topic : Overloading and Overriding
+### Class Diagram : 
+![1](class_diagram.png)
+### Class Structure For Overloading :
+<ul>
+  <li>Binatang : Representing abstract Binatang class with some abstract method</li>
+  <li>Ikarnivora : Representing interface class</li>
+  <li>IHerbivora : Representing interface class</li>
+  <li>Gorilla : Representing Gorilla class with inherit from Binatang and implements Ikarnivora, Iherbivora</li>
+  <li>Singa : Representing Singa class with inherit from Binatang and implements Ikarnivora</li>
+  <li>Keledai : Representing Keledai class with inherit from Binatang and implements Iherbivora</li>
+  <li>Main : Run the java program from each declared class</li>
+</ul>
 
-The workspace contains two folders by default, where:
+### Technologies :
+<ul>
+<li>Java Object Oriented Programming</li>
+<li>IDE : Visual Studio Code with java plugins for compiler</li>
+</ul>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Credits : Yudas Malabi 😄✌️
