@@ -3,9 +3,9 @@ package tugas;
 public class Main {
 
     public static void main(String[] args) {
-        Singa obj_1 = new Singa("Singa", 4, "Mengaum", "Orange");
-        Keledai obj_2 = new Keledai("Keledai", 4, "Meringkik", "Abu abu");
-        Gorilla obj_3 = new Gorilla("Gorilla", 4, "Mengaum", "hitam");
+        Singa obj_1 = new Singa("Singa", 4, "roaar", "Orange");
+        Keledai obj_2 = new Keledai("Keledai", 4, "heekk..haw", "Abu abu");
+        Gorilla obj_3 = new Gorilla("Gorilla", 4, "Uuumm..umm", "hitam");
 
         obj_1.displayBinatang();
         obj_1.displayMakan();
