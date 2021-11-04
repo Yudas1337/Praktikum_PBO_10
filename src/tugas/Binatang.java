@@ -25,8 +25,6 @@ public abstract class Binatang {
         return jmlKaki;
     }
 
-    public void displayBinatang() {
-
-    }
+    public abstract void displayBinatang();
 
 }
